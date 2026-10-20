@@ -1,0 +1,146 @@
+DEBUG:root:This is a debug message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+INFO:root:This is an info message
+2026-10-10 15:34:01,413:my_logger:This is a debug message
+2026-10-10 15:34:01,413 - my_logger - This is a debug message
+DEBUG:my_logger:This is a debug message
+2026-10-10 15:34:01,413:my_logger:This is an info message
+2026-10-10 15:34:01,413 - my_logger - This is an info message
+INFO:my_logger:This is an info message
+2026-10-10 15:34:01,413:my_logger:This is a warning message
+2026-10-10 15:34:01,413 - my_logger - This is a warning message
+WARNING:my_logger:This is a warning message
+2026-10-10 15:34:01,417:my_logger:This is an error message
+2026-10-10 15:34:01,417 - my_logger - This is an error message
+ERROR:my_logger:This is an error message
+2026-10-10 15:34:01,420:my_logger:This is a critical message
+2026-10-10 15:34:01,420 - my_logger - This is a critical message
+CRITICAL:my_logger:This is a critical message
+DEBUG:root:This is a debug message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+INFO:root:This is an info message
+2026-10-10 23:09:57,761 - my_logger - This is a debug message
+DEBUG:my_logger:This is a debug message
+2026-10-10 23:09:57,761 - my_logger - This is an info message
+INFO:my_logger:This is an info message
+2026-10-10 23:09:57,761 - my_logger - This is a warning message
+WARNING:my_logger:This is a warning message
+2026-10-10 23:09:57,768 - my_logger - This is an error message
+ERROR:my_logger:This is an error message
+2026-10-10 23:09:57,768 - my_logger - This is a critical message
+CRITICAL:my_logger:This is a critical message
+DEBUG:new_logger:This is debug message number 0
+DEBUG:new_logger:This is debug message number 1
+DEBUG:new_logger:This is debug message number 2
+DEBUG:new_logger:This is debug message number 3
+DEBUG:new_logger:This is debug message number 4
+DEBUG:new_logger:This is debug message number 5
+DEBUG:new_logger:This is debug message number 6
+DEBUG:new_logger:This is debug message number 7
+DEBUG:new_logger:This is debug message number 8
+DEBUG:new_logger:This is debug message number 9
+DEBUG:new_logger:This is debug message number 10
+DEBUG:new_logger:This is debug message number 11
+DEBUG:new_logger:This is debug message number 12
+DEBUG:new_logger:This is debug message number 13
+DEBUG:new_logger:This is debug message number 14
+DEBUG:new_logger:This is debug message number 15
+DEBUG:new_logger:This is debug message number 16
+DEBUG:new_logger:This is debug message number 17
+DEBUG:new_logger:This is debug message number 18
+DEBUG:new_logger:This is debug message number 19
+DEBUG:new_logger:This is debug message number 20
+DEBUG:new_logger:This is debug message number 21
+DEBUG:new_logger:This is debug message number 22
+DEBUG:new_logger:This is debug message number 23
+DEBUG:new_logger:This is debug message number 24
+DEBUG:new_logger:This is debug message number 25
+DEBUG:new_logger:This is debug message number 26
+DEBUG:new_logger:This is debug message number 27
+DEBUG:new_logger:This is debug message number 28
+DEBUG:new_logger:This is debug message number 29
+DEBUG:new_logger:This is debug message number 30
+DEBUG:new_logger:This is debug message number 31
+DEBUG:new_logger:This is debug message number 32
+DEBUG:new_logger:This is debug message number 33
+DEBUG:new_logger:This is debug message number 34
+DEBUG:new_logger:This is debug message number 35
+DEBUG:new_logger:This is debug message number 36
+DEBUG:new_logger:This is debug message number 37
+DEBUG:new_logger:This is debug message number 38
+DEBUG:new_logger:This is debug message number 39
+DEBUG:new_logger:This is debug message number 40
+DEBUG:new_logger:This is debug message number 41
+DEBUG:new_logger:This is debug message number 42
+DEBUG:new_logger:This is debug message number 43
+DEBUG:new_logger:This is debug message number 44
+DEBUG:new_logger:This is debug message number 45
+DEBUG:new_logger:This is debug message number 46
+DEBUG:new_logger:This is debug message number 47
+DEBUG:new_logger:This is debug message number 48
+DEBUG:new_logger:This is debug message number 49
+DEBUG:new_logger:This is debug message number 50
+DEBUG:new_logger:This is debug message number 51
+DEBUG:new_logger:This is debug message number 52
+DEBUG:new_logger:This is debug message number 53
+DEBUG:new_logger:This is debug message number 54
+DEBUG:new_logger:This is debug message number 55
+DEBUG:new_logger:This is debug message number 56
+DEBUG:new_logger:This is debug message number 57
+DEBUG:new_logger:This is debug message number 58
+DEBUG:new_logger:This is debug message number 59
+DEBUG:new_logger:This is debug message number 60
+DEBUG:new_logger:This is debug message number 61
+DEBUG:new_logger:This is debug message number 62
+DEBUG:new_logger:This is debug message number 63
+DEBUG:new_logger:This is debug message number 64
+DEBUG:new_logger:This is debug message number 65
+DEBUG:new_logger:This is debug message number 66
+DEBUG:new_logger:This is debug message number 67
+DEBUG:new_logger:This is debug message number 68
+DEBUG:new_logger:This is debug message number 69
+DEBUG:new_logger:This is debug message number 70
+DEBUG:new_logger:This is debug message number 71
+DEBUG:new_logger:This is debug message number 72
+DEBUG:new_logger:This is debug message number 73
+DEBUG:new_logger:This is debug message number 74
+DEBUG:new_logger:This is debug message number 75
+DEBUG:new_logger:This is debug message number 76
+DEBUG:new_logger:This is debug message number 77
+DEBUG:new_logger:This is debug message number 78
+DEBUG:new_logger:This is debug message number 79
+DEBUG:new_logger:This is debug message number 80
+DEBUG:new_logger:This is debug message number 81
+DEBUG:new_logger:This is debug message number 82
+DEBUG:new_logger:This is debug message number 83
+DEBUG:new_logger:This is debug message number 84
+DEBUG:new_logger:This is debug message number 85
+DEBUG:new_logger:This is debug message number 86
+DEBUG:new_logger:This is debug message number 87
+DEBUG:new_logger:This is debug message number 88
+DEBUG:new_logger:This is debug message number 89
+DEBUG:new_logger:This is debug message number 90
+DEBUG:new_logger:This is debug message number 91
+DEBUG:new_logger:This is debug message number 92
+DEBUG:new_logger:This is debug message number 93
+DEBUG:new_logger:This is debug message number 94
+DEBUG:new_logger:This is debug message number 95
+DEBUG:new_logger:This is debug message number 96
+DEBUG:new_logger:This is debug message number 97
+DEBUG:new_logger:This is debug message number 98
+DEBUG:new_logger:This is debug message number 99
+ERROR:exception_logger:An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\Amaan Moolchandani\AppData\Local\Temp\ipykernel_23484\2163138125.py", line 12, in logger_with_exception
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+DEBUG:additional_context_logger:This is a debug message
+INFO:additional_context_logger:This is an info message
+WARNING:additional_context_logger:This is a warning message
+ERROR:additional_context_logger:This is an error message
+CRITICAL:additional_context_logger:This is a critical message

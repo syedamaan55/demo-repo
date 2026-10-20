@@ -1,0 +1,7 @@
+
+hello this is log file amaan is good
+
+str1
+str2
+str3
+
