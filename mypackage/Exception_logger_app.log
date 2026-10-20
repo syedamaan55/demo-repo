@@ -1,0 +1,12 @@
+2026-10-10 23:28:38,520 - exception_logger - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\Amaan Moolchandani\AppData\Local\Temp\ipykernel_23484\2163138125.py", line 12, in logger_with_exception
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+2026-10-10 23:28:38,520 - exception_logger - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\Amaan Moolchandani\AppData\Local\Temp\ipykernel_23484\2163138125.py", line 12, in logger_with_exception
+    1/0
+    ~^~
+ZeroDivisionError: division by zero

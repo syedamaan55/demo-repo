@@ -1,0 +1,2 @@
+this is a stat file 
+i am going to count the words , lines and characters in this file 
